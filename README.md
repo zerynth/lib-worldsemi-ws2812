@@ -1,1 +1,2 @@
-# lib-worldsemi-ws2812
+# lib.worldsemi.ws2812
+

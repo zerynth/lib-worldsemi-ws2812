@@ -1,0 +1,8 @@
+{
+	"version":"1.0.0",
+	"title":"WS2812 RGB LEDs",
+	"copyright":"Zerynth Team",
+	"files":[
+		["Ledstrips","ledstrips.py"]
+	]
+}
